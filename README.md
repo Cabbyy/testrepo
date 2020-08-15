@@ -1,2 +1,2 @@
 # testrepo
-Repo for testing gitjub
+Repo for testing github
